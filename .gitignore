@@ -1,0 +1,9 @@
+# SCSS.
+.sass-cache
+
+# Log files.
+.log
+
+# Rubinius
+*.rbc
+.rbx
